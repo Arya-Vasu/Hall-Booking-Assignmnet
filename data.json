@@ -1,0 +1,98 @@
+[
+  {
+    "Room_No": "100",
+    "Status": "Available",
+    "Beds": "4",
+    "Customer_Name": "",
+    "A.C.": "True",
+    "Amenities": { "1": "LED TV", "2": "2 Double Beds", "3": "Loundary Service" },
+    "Price_per_Hour": "Rs. 1,099",
+    "Booked_On": "",
+    "Check_In": "",
+    "Check_Out": ""
+  },
+  {
+    "Room_No": "101",
+    "Status": "Available",
+    "Beds": "4",
+    "Customer_Name": "",
+    "A.C.": "False",
+    "Amenities": { "1": "LED TV", "2": "4 Single Beds", "3": "Loundary Service" },
+    "Price_per_Hour": "Rs. 999",
+    "Booked_On": "",
+    "Check_In": "",
+    "Check_Out": ""
+  },
+  {
+    "Room_No": "102",
+    "Status": "Available",
+    "Beds": "3",
+    "Customer_Name": "",
+    "A.C.": "True",
+    "Amenities": { "1": "LED TV", "2": "3 Single Beds", "3": "Loundary Service" },
+    "Price_per_Hour": "Rs. 999",
+    "Booked_On": "",
+    "Check_In": "",
+    "Check_Out": ""
+  },
+  {
+    "Room_No": "103",
+    "Status": "Available",
+    "Beds": "3",
+    "Customer_Name": "",
+    "A.C.": "False",
+    "Amenities": { "1": "LED TV", "2": "3 Single Beds", "3": "Loundary Service" },
+    "Price_per_Hour": "Rs. 899",
+    "Booked_On": "",
+    "Check_In": "",
+    "Check_Out": ""
+  },
+  {
+    "Room_No": "200",
+    "Status": "Available",
+    "Beds": "2",
+    "Customer_Name": "",
+    "A.C.": "True",
+    "Amenities": { "1": "LED TV", "2": "1 Double Bed", "3": "Loundary Service" },
+    "Price_per_Hour": "Rs. 749",
+    "Booked_On": "",
+    "Check_In": "",
+    "Check_Out": ""
+  },
+  {
+    "Room_No": "201",
+    "Status": "Available",
+    "Beds": "2",
+    "Customer_Name": "",
+    "A.C.": "False",
+    "Amenities": { "1": "LED TV", "2": "1 Double Bed", "3": "Loundary Service" },
+    "Price_per_Hour": "Rs. 699",
+    "Booked_On": "",
+    "Check_In": "",
+    "Check_Out": ""
+  },
+  {
+    "Room_No": "202",
+    "Status": "Available",
+    "Beds": "2",
+    "Customer_Name": "",
+    "A.C.": "True",
+    "Amenities": { "1": "LED TV", "2": "2 Single Beds", "3": "Loundary Service" },
+    "Price_per_Hour": "Rs. 699",
+    "Booked_On": "",
+    "Check_In": "",
+    "Check_Out": ""
+  },
+  {
+    "Room_No": "203",
+    "Status": "Available",
+    "Beds": "2",
+    "Customer_Name": "",
+    "A.C.": "False",
+    "Amenities": { "1": "LED TV", "2": "2 Single Beds", "3": "Loundary Service" },
+    "Price_per_Hour": "Rs. 649",
+    "Booked_On": "",
+    "Check_In": "",
+    "Check_Out": ""
+  }
+]
